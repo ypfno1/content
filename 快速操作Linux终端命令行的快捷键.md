@@ -5,6 +5,7 @@ Category: Linux
 Tags: Linux
 Slug: linux_terminal
 Author: 亚瑟
+description: 描述清楚linux中shell终端里的一些快捷键应用。
 
 在shell命令终端中，Ctrl+n相当于方向向下的方向键，Ctrl+p相当于方向向上的方向键。
 

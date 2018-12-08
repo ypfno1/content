@@ -5,6 +5,7 @@ Category: git
 Tags: git
 Slug: git-command
 Author: 亚瑟
+description: git是一个非常强大的版本控制和备份工具。对我来说，因为是个人开发，更多的是备份工具。
 
 git是一个非常强大的版本控制和备份工具。对我来说，因为是个人开发，更多的是备份工具。
 
